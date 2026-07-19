@@ -32,7 +32,7 @@ def get_filters():
 
 
 def load_data(city, month, day):
-    """Loads data for the specified city and filters by month and day if applicable."""
+    """Loads data for the specified city and filters by month and day if applicable..."""
     df = pd.read_csv(CITY_DATA[city])
 
     df["Start Time"] = pd.to_datetime(df["Start Time"])
