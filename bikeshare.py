@@ -12,7 +12,7 @@ DAYS = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sun
 
 
 def get_filters():
-    """Asks user to specify a city, month, and day to analyze."""
+    """Asks user to specify a city, month, and day to analyze"""
     print("Hello! Let's explore some US bikeshare data!")
 
     city = ""
