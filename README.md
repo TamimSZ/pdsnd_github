@@ -4,6 +4,7 @@
 This project uses Python to explore data related to bike share systems in three major US cities: Chicago, New York City, and Washington. The script lets a user filter the data by city, month, and day, then view descriptive statistics such as the most common travel times, most popular stations and trip, total and average trip duration, and user demographics.
 
 ## Files Used
+- `Data files contain trip data for six months (Jan–Jun 2017).`
 - `bikeshare.py`
 - `chicago.csv` *(not tracked in this repo — see `.gitignore`)*
 - `new_york_city.csv` *(not tracked in this repo — see `.gitignore`)*
