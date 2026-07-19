@@ -26,4 +26,5 @@ Follow the prompts to choose a city, then filter by month and/or day.
 None currently known.
 
 ## Credits
+Special thanks to the Udacity mentors for guidance on this project.
 This project was completed as part of Udacity's Programming for Data Science with Python Nanodegree program, using the starter repository provided by Udacity.
